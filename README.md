@@ -71,5 +71,3 @@ Built a **Tableau dashboard** to display:
 - **SQL** (MySQL) → Data cleaning, EDA, and analysis.  
 - **Tableau** → Data visualization and interactive dashboard.  
 - **GitHub** → Version control and documentation.  
-
-## 📂 Project Structure
